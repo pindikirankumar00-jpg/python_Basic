@@ -4,5 +4,6 @@ print(data.min())
 print(data.std())
 print(data.mean())
 print(data.var())
-print(np.median(data))
+
+
 

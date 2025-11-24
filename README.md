@@ -4,7 +4,7 @@ print(data.min())
 print(data.std())
 print(data.mean())
 print(data.var())
-print(data.var
+print(data.var()
 
 
 first_10_natural_numbers = list(range(1, 11))

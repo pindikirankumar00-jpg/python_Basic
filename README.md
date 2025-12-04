@@ -13,4 +13,5 @@ first_10_natural_numbers = list(range(1, 11))
 print("kirann")
 print("kirrak")
 print('kiran')
+print("kirrak")
 
